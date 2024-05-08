@@ -22,7 +22,9 @@ dependencies:
   flutter_inappwebview_android: ^1.0.12
   flutter_inappwebview_ios:
     git:
-      url: https://github.com/tour4x/flutter_inappwebview/tree/v6.0.0/flutter_inappwebview_ios
+      url: https://github.com/tour4x/flutter_inappwebview
+      path: flutter_inappwebview_ios
+      ref: 23c30909d5150004bb3c69b33c28f7e71638fc6b
   flutter_inappwebview_macos: ^1.0.11
   flutter_inappwebview_web: ^1.0.8
 
